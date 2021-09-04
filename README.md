@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=5858FA&height=300&section=header&text=YunYoonBin&fontSize=90)
    
-   <h1>:book:I have learned or want to learn this language.:book:</h1>
+   <h1>:book:I have learned or want to learn these things.:book:</h1>
    <div align="center">
    
    <h3>:video_game:GAME Engine:video_game:</h3>
