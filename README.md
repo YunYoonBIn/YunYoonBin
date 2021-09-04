@@ -40,3 +40,5 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunYoonBin&layout=compact)](https://github.com/YunYoonBIn?tab=repositories)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunYoonBin&show_icons=true&theme=radical)
 
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=5858FA&height=300&section=header&text=YunYoonBin&fontSize=90)
