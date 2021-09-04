@@ -25,6 +25,7 @@
 <br>  
    <h3>:mag_right:Back-end:mag_right:</h3> 
  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <br>
    <h3>:file_folder:Database:file_folder:</h3> 
