@@ -1,8 +1,5 @@
+<div align="center">
 
-
-
-
-  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=5858FA&height=300&section=header&text=YunYoonBin&fontSize=90)
   
   <h1>I have learned or am learning this language.</h1>
@@ -28,7 +25,7 @@
 <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-  
+</div>  
   <br>
   <h1>Library</h1>
   
