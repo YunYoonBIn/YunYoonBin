@@ -8,8 +8,7 @@
   <h1>I have learned or am learning this language.</h1>
   </div>
 
-<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
