@@ -2,6 +2,7 @@
 
 
 <div align="center">
+  I have learned or am learning this language.
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=5858FA&height=300&section=header&text=YunYoonBin&fontSize=90)
   
