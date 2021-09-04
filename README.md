@@ -41,4 +41,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunYoonBin&show_icons=true&theme=radical)
 
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=5858FA&height=300&section=header&text=YunYoonBin&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=5858FA&height=300&section=header&text=&fontSize=90&rotate=-30)
