@@ -44,4 +44,4 @@
 
 <hr>
 
-https://github.com/YunYoonBin
+https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/github.png
