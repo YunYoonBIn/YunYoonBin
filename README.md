@@ -46,11 +46,7 @@
 
 <center>
 <div align="center" style="text-align:center" >
-	<a href="https://cjmpm.tistory.com/category" style="margin:15px auto">
-		<img src="https://github.com/roncan1/roncan1/blob/main/image/tistory.png" width="64" height="64">
-	</a>
-
-	<a href="https://github.com/roncan1" style="margin:15px auto">
+	<a href="https://github.com/YunYoonBin" style="margin:15px auto">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/github.png" width="64" height="64">
 	</a>
 </div>
