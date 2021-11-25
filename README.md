@@ -49,5 +49,10 @@
 	<a href="https://github.com/YunYoonBin" style="margin:15px auto">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/github.png" width="64" height="64">
 	</a>
+	
+	<a href="https://velog.io/@yubiny289" style="margin:15px auto">
+		<img src="https://github.com/roncan1/roncan1/blob/main/image/.png" width="64" height="64">
+	</a>
+
 </div>
 </center> 
