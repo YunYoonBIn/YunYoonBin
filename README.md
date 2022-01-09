@@ -32,7 +32,6 @@
 
    <h3>:file_folder:Database:file_folder:</h3> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </div>  
   
  
