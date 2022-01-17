@@ -44,12 +44,10 @@
 
 <center>
 <div align="center" style="text-align:center" >
-	<a href="https://github.com/YunYoonBin" style="margin:15px auto">
-		<img src="![v](https://user-images.githubusercontent.com/85235487/149768393-8ba48736-20a5-455d-a0ac-f130f715714d.jpg)
-" width="64" height="64">
+	<a href="https://velog.io/@yubiny289" style="margin:15px auto">
+		<img src="" width="64" height="64">
 	</a>
 	
-	![v](https://user-images.githubusercontent.com/85235487/149768101-2d93d75b-14e0-4391-ace7-2c4a14cb99fb.jpg)
 
 
 </div>
