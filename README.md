@@ -37,11 +37,11 @@
  
   
   <h1>:blush:Library:blush:</h1> 
-  
+<div align="center"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunYoonBin&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunYoonBin&show_icons=true&theme=radical)
-
+</div> 
 <hr>
 
 <center>
@@ -52,7 +52,5 @@
 	<a href="https://github.com/YunYoonBin" style="margin:15px auto">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/github.png" width="64" height="64">
 	</a>
-
-
 </div>
 </center> 
