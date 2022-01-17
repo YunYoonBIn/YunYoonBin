@@ -45,7 +45,7 @@
 <center>
 <div align="center" style="text-align:center" >
 	<a href="https://velog.io/@yubiny289" style="margin:15px auto">
-		<img src="" width="64" height="64">
+		<img src="https://user-images.githubusercontent.com/85235487/149768393-8ba48736-20a5-455d-a0ac-f130f715714d.jpg" width="64" height="64">
 	</a>
 	
 
